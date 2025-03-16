@@ -24,6 +24,14 @@
 - **İçerik:** `shutdown -a` komutu ile sistem kapanma işlemini iptal eder.
 - **Etkileri:** Zararsızdır, yalnızca kapatma komutunu durdurur.
 
+### **5. xp_system_crasher.txt**
+- **İçerik:** `shutdown -r` komutu ile sistem kapanma işlemini yapar.
+- **Etkileri:** Zararlıdır, xp sistemini crash verdirir antidote kullanmadığımız üzere..
+
+### **6. jpg virüs ekleme.txt*
+- **İçerik:** jpg dosyasına virüs ekleme yapar.
+- **Etkileri:** Zararlıdır, resim dosyasına virüs ekler..
+
 ---
 
 ## ⚠️ Uyarı
